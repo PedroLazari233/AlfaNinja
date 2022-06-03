@@ -1,0 +1,141 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: M_LW_Blood_Mist_01
+  m_Shader: {fileID: -6465566751694194690, guid: c9959185b3e1abc4d81be01f044b5d97,
+    type: 3}
+  m_ShaderKeywords: _USENOISEFADE_ON
+  m_LightmapFlags: 1
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_C3571A55:
+        m_Texture: {fileID: 2800000, guid: 906ebebad1b2cce47ba4402a92d80e67, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Detail:
+        m_Texture: {fileID: 2800000, guid: 6e5f1e6d79792314bb09998f68ff367d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 1c97e3a01f0c852489b7a6d7d06e3f75, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Noise:
+        m_Texture: {fileID: 2800000, guid: d28cebbf946592947a793232d42d59d4, type: 3}
+        m_Scale: {x: 2, y: 2}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 2800000, guid: ccd58e67deb38344c94a996683ab7829, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Reflect:
+        m_Texture: {fileID: 2800000, guid: bc90557c94f83774ca4e2ef3470ff8d7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _UVOff:
+        m_Texture: {fileID: 2800000, guid: 4fc46ff0ac5a52c46962fad1851234a2, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord2:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_279B01F7: 0.5
+    - Vector1_3297F646: 1
+    - Vector1_6F7F117D: 0
+    - Vector1_D2814A60: 1
+    - Vector1_EDC65B88: 0
+    - _AlphaStrength: 2
+    - _Ambience: 0.2
+    - _BumpScale: 1
+    - _Columns: 1
+    - _Cutoff: 0.5
+    - _DetailAlphaAffect: 1.57
+    - _DetailBrightAffect: 0.18
+    - _DetailNormalMapScale: 1
+    - _DetailPan: 0.14
+    - _DetailTile: 5.86
+    - _DstBlend: 0
+    - _EdgeMin: 0.05
+    - _EdgeSoft: 0.02
+    - _EmissStrength: 0.1
+    - _Emission: 0
+    - _Float0: 1
+    - _Glossiness: 0.5
+    - _InvFade: 0.01
+    - _InvertNdotL: 1
+    - _Metallic: 0
+    - _Mode: 0
+    - _NormalStr: 8
+    - _NosiePanSpeed: 0.5
+    - _OcclusionStrength: 1
+    - _OffPow: 2.4
+    - _OffTile: 0.15
+    - _Overbright: 0
+    - _Parallax: 0.02
+    - _Rows: 1
+    - _Shininess: 32
+    - _ShinnySpeed: 5
+    - _SrcBlend: 1
+    - _UVSec: 0
+    - _UseNoiseFade: 1
+    - _UseShinny: 0
+    - _ZWrite: 1
+    - __dirty: 0
+    - _node_1958: 1
+    m_Colors:
+    - Color_4DEC2512: {r: 1, g: 0, b: 0, a: 1}
+    - _ChannelMask: {r: 0, g: 0, b: 0, a: 1}
+    - _Color: {r: 0.8, g: 0, b: 0, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _HighlightColor: {r: 0.61764705, g: 0.61764705, b: 0.61764705, a: 1}
+    - _TintColor: {r: 0.222, g: 0, b: 0, a: 1}
