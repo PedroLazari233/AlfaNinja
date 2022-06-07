@@ -20,6 +20,7 @@ Softwares/Linguagens usadas no processo de desenvolvimento:
 ![Knives](https://user-images.githubusercontent.com/67986647/172278042-84f7b909-b774-4a29-8cc2-6e4f141eeb09.JPG)
 
 ### Prêmios ESG
+![ESGs](https://user-images.githubusercontent.com/67986647/172278330-1e2fb5f1-b631-45dd-828f-eff2eb6a1cd7.JPG)
 
 ### Gameplay
 
