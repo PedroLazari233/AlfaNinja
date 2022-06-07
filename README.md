@@ -7,7 +7,7 @@ AlfaNinja é um jogo de realidade virtual desenvolvido para <a href="https://www
 O jogo foi desenvolvido para o dispositivo de realidade virtual Meta Quest 2.<br>
 Softwares/Linguagens usadas no processo de desenvolvimento:
 - C#
-- Unity
+- Unity (2020.3.23f1)
 - Blender 3D
 - Photoshop
 - Figma
