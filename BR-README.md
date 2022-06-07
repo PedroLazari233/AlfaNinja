@@ -32,4 +32,4 @@ Softwares/Linguagens usadas no processo de desenvolvimento:
 <img src="https://user-images.githubusercontent.com/67986647/172279530-3d11de49-8340-4eb2-9e13-e9ae70b44159.png" width="400">
 
 # :man: Desenvolvedores
-<a href="https://www.linkedin.com/in/pedrolazari/" target="_blank">Pedro Machado Lazari</a> - Desenvolvedor<br>
+<a href="https://www.linkedin.com/in/pedrolazari/" target="_blank">Pedro Machado Lazari</a> - Desenvolvedor Unity | Modelador 3D<br>
