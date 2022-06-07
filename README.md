@@ -14,6 +14,7 @@ Softwares/Linguagens usadas no processo de desenvolvimento:
 
 # :wrench: Assets | Gameplay
 ### Cítricos
+![Laranjas](https://user-images.githubusercontent.com/67986647/172277465-886a9bca-ae53-4a7c-ad8e-c0dec7f21b1f.JPG)
 
 ### Facas
 
