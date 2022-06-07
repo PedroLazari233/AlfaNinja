@@ -1,6 +1,6 @@
 # AlfaNinja
 
-<a AlfaNinja</a> é um jogo de realidade virtual desenvolvido para <a href="https://www.alfacitrus.com.br" target="_blank"AlfaCitrus</a> com finalidade de uso durante o evento APAS 2022. Como objetivo o jogador deve cortar o máximo de cítricos que conseguir para ganhar os prêmios ESG.
+AlfaNinja é um jogo de realidade virtual desenvolvido para <a href="https://www.alfacitrus.com.br" target="_blank"AlfaCitrus</a> com finalidade de uso durante o evento APAS 2022. Como objetivo o jogador deve cortar o máximo de cítricos que conseguir para ganhar os prêmios ESG.
 
 # :computer: Desenvolvimento
 
@@ -17,6 +17,7 @@ Softwares/Linguagens usadas no processo de desenvolvimento:
 ![Laranjas](https://user-images.githubusercontent.com/67986647/172277465-886a9bca-ae53-4a7c-ad8e-c0dec7f21b1f.JPG)
 
 ### Facas
+![Knives](https://user-images.githubusercontent.com/67986647/172278042-84f7b909-b774-4a29-8cc2-6e4f141eeb09.JPG)
 
 ### Prêmios ESG
 
