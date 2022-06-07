@@ -1,6 +1,6 @@
 # AlfaNinja
 
-AlfaNinja is a virtual reality game developed for <a href="https://www.alfacitrus.com.br/" target="_blank">AlfaCitrus</a> for advertising purposes during the APAS 2022 event. As an objective, the player must cut as many citrus fruits as possible and earn rewards symbolizing the Environment, Social and Governance (ESG) values.
+AlfaNinja is a virtual reality game developed for <a href="https://www.alfacitrus.com.br/" target="_blank">AlfaCitrus</a> for advertising purposes during the <a href="https://apasshow.com/" target="_blank">APAS SHOW 2022</a> event. As an objective, the player must cut as many citrus fruits as possible and earn rewards symbolizing the Environment, Social and Governance (ESG) values.
 
 # :computer: Development
 
