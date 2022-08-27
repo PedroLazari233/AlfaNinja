@@ -1,0 +1,546 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.23f1 (c5d91304a876) revision 12966163'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 19044.1706; Version 2009; 64bit' Language: 'pt' Physical Memory: 32699 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.23f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Workrelated/Unity/UnityProjects/CitrusNinja
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+53090
+Successfully changed project path to: D:/Workrelated/Unity/UnityProjects/CitrusNinja
+D:/Workrelated/Unity/UnityProjects/CitrusNinja
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 133.84 ms, found 11 plugins.
+Preloading 1 native plugins for Editor in 0.68 ms.
+Initialize engine version: 2020.3.23f1 (c5d91304a876)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.23f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Workrelated/Unity/UnityProjects/CitrusNinja/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c82)
+    Vendor:   
+    VRAM:     4018 MB
+    Driver:   27.21.14.6589
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.23f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.23f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.23f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56980
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.23f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001518 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 119.79 ms, found 11 plugins.
+Preloading 1 native plugins for Editor in 0.04 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.544 seconds
+Domain Reload Profiling:
+	ReloadAssembly (545ms)
+		BeginReloadAssembly (40ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (444ms)
+			LoadAssemblies (39ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (115ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (25ms)
+			SetupLoadedEditorAssemblies (219ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (120ms)
+				BeforeProcessingInitializeOnLoad (13ms)
+				ProcessInitializeOnLoadAttributes (61ms)
+				ProcessInitializeOnLoadMethodAttributes (21ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.005680 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 119.51 ms, found 11 plugins.
+Preloading 1 native plugins for Editor in 0.03 ms.
+[XR] OculusXRPlugin: registering subsystems
+[XR] Unable to register display lifecyle provider: [1]
+[XR] Oculus Input lifecycle provider registered.
+[XR] Unable to register input lifecyle provider: [1]
+[XR] OVRP version 1.70.0
+Mono: successfully reloaded assembly
+- Completed reload, in  1.080 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1081ms)
+		BeginReloadAssembly (114ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (17ms)
+		EndReloadAssembly (917ms)
+			LoadAssemblies (72ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (268ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (54ms)
+			SetupLoadedEditorAssemblies (410ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (120ms)
+				BeforeProcessingInitializeOnLoad (73ms)
+				ProcessInitializeOnLoadAttributes (194ms)
+				ProcessInitializeOnLoadMethodAttributes (16ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 1.80 ms, found 11 plugins.
+Preloading 1 native plugins for Editor in 0.04 ms.
+Unloading 3257 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 163.5 MB.
+System memory in use after: 163.6 MB.
+
+Unloading 69 unused Assets to reduce memory usage. Loaded Objects now: 3689.
+Total: 3.549100 ms (FindLiveObjects: 0.352800 ms CreateObjectMapping: 0.086600 ms MarkObjects: 2.908800 ms  DeleteObjects: 0.199800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Images/Logo.mat
+  artifactKey: Guid(05b3609c8a01fcb49a6bbfbe3ff70640) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/Logo.mat using Guid(05b3609c8a01fcb49a6bbfbe3ff70640) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56c85d8f8a696baab0f08314873360d4') in 0.104671 seconds 
+  Import took 0.109915 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.643109 seconds.
+  path: Assets/CakePolyFew/Assembly-4_Defintion-POLY_REDUCED.mesh
+  artifactKey: Guid(fe7e5b0c65b845a4ca779157d4bbb50f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CakePolyFew/Assembly-4_Defintion-POLY_REDUCED.mesh using Guid(fe7e5b0c65b845a4ca779157d4bbb50f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9432abbdbf5f1e87bf4eca053b2bd6cd') in 0.028309 seconds 
+  Import took 0.033233 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/CakePolyFew/ID87-POLY_REDUCED.mesh
+  artifactKey: Guid(60437d6949058344e86425bd43a6bfd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CakePolyFew/ID87-POLY_REDUCED.mesh using Guid(60437d6949058344e86425bd43a6bfd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb3ce87a68c21ec8bc94a352643c735a') in 0.016194 seconds 
+  Import took 0.021215 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/CakePolyFew/ID117-POLY_REDUCED.mesh
+  artifactKey: Guid(c5f9c93a5f20cdf4d971dcdb17ff880b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CakePolyFew/ID117-POLY_REDUCED.mesh using Guid(c5f9c93a5f20cdf4d971dcdb17ff880b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68a23b8a462ebd4bf51731ff91e4bff8') in 0.012598 seconds 
+  Import took 0.017543 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/CakePolyFew/ID257-POLY_REDUCED.mesh
+  artifactKey: Guid(686e57b99eca5fc48a0e9a0f93dfcbeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CakePolyFew/ID257-POLY_REDUCED.mesh using Guid(686e57b99eca5fc48a0e9a0f93dfcbeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57ea9f62ee4f9f563617d3e4c15b9172') in 0.011746 seconds 
+  Import took 0.016131 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/CakePolyFew/ID427-POLY_REDUCED.mesh
+  artifactKey: Guid(2bca2c875c812d94285c0b4ecaafd854) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CakePolyFew/ID427-POLY_REDUCED.mesh using Guid(2bca2c875c812d94285c0b4ecaafd854) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc893eee48c0e05493f95963b50b066e') in 0.012751 seconds 
+  Import took 0.017210 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/CakePolyFew/ID147-POLY_REDUCED.mesh
+  artifactKey: Guid(64ef6272eb9e300498d7f04d4288a79e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CakePolyFew/ID147-POLY_REDUCED.mesh using Guid(64ef6272eb9e300498d7f04d4288a79e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4513ab9bc6f2d16962791149c8b5b10') in 0.011112 seconds 
+  Import took 0.016337 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/CakePolyFew/ID227-POLY_REDUCED.mesh
+  artifactKey: Guid(4d5f728212d362f46bac277acb8b8201) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CakePolyFew/ID227-POLY_REDUCED.mesh using Guid(4d5f728212d362f46bac277acb8b8201) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20c0f1af3e9c13b2644612a937abdccd') in 0.011919 seconds 
+  Import took 0.016635 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/CakePolyFew/ID307-POLY_REDUCED.mesh
+  artifactKey: Guid(0b90d4badfb6b1442ab9fdaa66e311ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CakePolyFew/ID307-POLY_REDUCED.mesh using Guid(0b90d4badfb6b1442ab9fdaa66e311ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50d44095ba0970935c785f107fe80cc7') in 0.010791 seconds 
+  Import took 0.015522 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/CakePolyFew/ID37-POLY_REDUCED.mesh
+  artifactKey: Guid(c8e5d70deb3f44549b64eccc747f587b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CakePolyFew/ID37-POLY_REDUCED.mesh using Guid(c8e5d70deb3f44549b64eccc747f587b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d1ce9924cc8f61b65ebfea06e7ba0c5') in 0.010062 seconds 
+  Import took 0.014543 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/CakePolyFew/ID287-POLY_REDUCED.mesh
+  artifactKey: Guid(9768cfca01b2f6d4093224ba15a17e29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CakePolyFew/ID287-POLY_REDUCED.mesh using Guid(9768cfca01b2f6d4093224ba15a17e29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf389aaa179e6648bd8ef5842ae2b682') in 0.009827 seconds 
+  Import took 0.014358 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/CakePolyFew/ID187-POLY_REDUCED.mesh
+  artifactKey: Guid(62b718a62c56e9a4bb7287ccf836fc2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CakePolyFew/ID187-POLY_REDUCED.mesh using Guid(62b718a62c56e9a4bb7287ccf836fc2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1839b1405bfba96c82ea12d50fc26feb') in 0.008917 seconds 
+  Import took 0.013234 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/CakePolyFew/ID297-POLY_REDUCED.mesh
+  artifactKey: Guid(949faf9f44de290429ca9fb69a758935) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CakePolyFew/ID297-POLY_REDUCED.mesh using Guid(949faf9f44de290429ca9fb69a758935) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e4ab4b9deee539e82793adfc08f3acc') in 0.009808 seconds 
+  Import took 0.015069 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/CakePolyFew/ID197-POLY_REDUCED.mesh
+  artifactKey: Guid(040c3e6585b0ffd46bd5928b8e6238ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CakePolyFew/ID197-POLY_REDUCED.mesh using Guid(040c3e6585b0ffd46bd5928b8e6238ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '587e04b966651d445be00efdc31f9681') in 0.009591 seconds 
+  Import took 0.014998 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/CakePolyFew/ID447-POLY_REDUCED.mesh
+  artifactKey: Guid(b186d025d870bd94f8f56296d5dfd366) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CakePolyFew/ID447-POLY_REDUCED.mesh using Guid(b186d025d870bd94f8f56296d5dfd366) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6489b99086aabc4e30c5be8074d7820') in 0.009092 seconds 
+  Import took 0.014211 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/CakePolyFew/ID397-POLY_REDUCED.mesh
+  artifactKey: Guid(83e982cdd8df1374c8cd80265ef3323e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CakePolyFew/ID397-POLY_REDUCED.mesh using Guid(83e982cdd8df1374c8cd80265ef3323e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e81d9d9358ad327d3d60b0fbd0c1f3af') in 0.009813 seconds 
+  Import took 0.014748 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/CakePolyFew/ID357-POLY_REDUCED.mesh
+  artifactKey: Guid(839b0c38ee75e6f4395564142562f95f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CakePolyFew/ID357-POLY_REDUCED.mesh using Guid(839b0c38ee75e6f4395564142562f95f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3255021b99939c29956dffc0d50d2906') in 0.008760 seconds 
+  Import took 0.013909 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/CakePolyFew/ID457-POLY_REDUCED.mesh
+  artifactKey: Guid(5d819626100c0b44e9b0a976d9fa7424) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CakePolyFew/ID457-POLY_REDUCED.mesh using Guid(5d819626100c0b44e9b0a976d9fa7424) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abf2ba288b75f1d746506161ab25bb6f') in 0.010066 seconds 
+  Import took 0.014582 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/CakePolyFew/ID317-POLY_REDUCED.mesh
+  artifactKey: Guid(7a20ee859b7ba3946bc0b8b7e180987e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CakePolyFew/ID317-POLY_REDUCED.mesh using Guid(7a20ee859b7ba3946bc0b8b7e180987e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8704bb76fe15481085bcf67c44d84439') in 0.008752 seconds 
+  Import took 0.013540 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/CakePolyFew/ID167-POLY_REDUCED.mesh
+  artifactKey: Guid(a28c7d23d74025948bd967bf5ff38f90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CakePolyFew/ID167-POLY_REDUCED.mesh using Guid(a28c7d23d74025948bd967bf5ff38f90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '387345420b264d30a6d54e07daba0abe') in 0.010578 seconds 
+  Import took 0.015444 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/CakePolyFew/ID127-POLY_REDUCED.mesh
+  artifactKey: Guid(6967791369e41ee47b67e1f3f549bb66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CakePolyFew/ID127-POLY_REDUCED.mesh using Guid(6967791369e41ee47b67e1f3f549bb66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '470c74838fcdb8722d3bdbe996e6aa39') in 0.009366 seconds 
+  Import took 0.014420 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/CakePolyFew/ID97-POLY_REDUCED.mesh
+  artifactKey: Guid(8d1ecbeaa0565714c993a78af13aaa49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CakePolyFew/ID97-POLY_REDUCED.mesh using Guid(8d1ecbeaa0565714c993a78af13aaa49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f94ef2771a3806de9c70c0b6296853d7') in 0.010054 seconds 
+  Import took 0.014845 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/CakePolyFew/ID177-POLY_REDUCED.mesh
+  artifactKey: Guid(966a48198b0c4f542a2ef45071e0c424) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CakePolyFew/ID177-POLY_REDUCED.mesh using Guid(966a48198b0c4f542a2ef45071e0c424) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68c3316564b5753a0b7cb81faec4613c') in 0.009053 seconds 
+  Import took 0.014029 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/CakePolyFew/ID107-POLY_REDUCED.mesh
+  artifactKey: Guid(d5a4c29632daa9843bff4bdf8cc0877b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CakePolyFew/ID107-POLY_REDUCED.mesh using Guid(d5a4c29632daa9843bff4bdf8cc0877b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f39fed2a59060c38a0724799dc41d7b0') in 0.008723 seconds 
+  Import took 0.013386 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/CakePolyFew/ID247-POLY_REDUCED.mesh
+  artifactKey: Guid(ca7b985417c3a38408fe37d753c0f8ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CakePolyFew/ID247-POLY_REDUCED.mesh using Guid(ca7b985417c3a38408fe37d753c0f8ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd60c8377a558b2708faa5a9ef4173e6') in 0.009291 seconds 
+  Import took 0.014429 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/CakePolyFew/ID337-POLY_REDUCED.mesh
+  artifactKey: Guid(3dd600082324ccc48b5a7a23ae5b57a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CakePolyFew/ID337-POLY_REDUCED.mesh using Guid(3dd600082324ccc48b5a7a23ae5b57a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53c1c860d9520b9293b20969ef530390') in 0.009140 seconds 
+  Import took 0.014162 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/CakePolyFew/ID207-POLY_REDUCED.mesh
+  artifactKey: Guid(4204fa25fbb6d0d4d9c8cc33d1a7daa7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CakePolyFew/ID207-POLY_REDUCED.mesh using Guid(4204fa25fbb6d0d4d9c8cc33d1a7daa7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed6e8702cbb28db2b58836c87a202ec3') in 0.009161 seconds 
+  Import took 0.013807 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/CakePolyFew/ID67-POLY_REDUCED.mesh
+  artifactKey: Guid(cc85a7c04e4fb364cb6da49040a80b96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CakePolyFew/ID67-POLY_REDUCED.mesh using Guid(cc85a7c04e4fb364cb6da49040a80b96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dece96064cc784dfdbc554c292f263a2') in 0.010155 seconds 
+  Import took 0.014483 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/CakePolyFew/ID157-POLY_REDUCED.mesh
+  artifactKey: Guid(ef42053c95c03984db875c6233802ee6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CakePolyFew/ID157-POLY_REDUCED.mesh using Guid(ef42053c95c03984db875c6233802ee6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba5af410f2d8950a1555985e2f97243b') in 0.008840 seconds 
+  Import took 0.013841 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/CakePolyFew/ID237-POLY_REDUCED.mesh
+  artifactKey: Guid(bb3b364da27cd7149a6a18b6cd2c7e60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CakePolyFew/ID237-POLY_REDUCED.mesh using Guid(bb3b364da27cd7149a6a18b6cd2c7e60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75c8eb90154504a4c710b5312845368a') in 0.008916 seconds 
+  Import took 0.013958 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/CakePolyFew/ID347-POLY_REDUCED.mesh
+  artifactKey: Guid(613858e7c397cbf418659c89db215965) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CakePolyFew/ID347-POLY_REDUCED.mesh using Guid(613858e7c397cbf418659c89db215965) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea7a3aa154e17d7c4466c657fe3269d0') in 0.010081 seconds 
+  Import took 0.014802 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/CakePolyFew/ID327-POLY_REDUCED.mesh
+  artifactKey: Guid(5f0c6834ad02ae74fbeccf295af16b51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CakePolyFew/ID327-POLY_REDUCED.mesh using Guid(5f0c6834ad02ae74fbeccf295af16b51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbfc308db2c4e2001bf0df12c9ae4a2a') in 0.011347 seconds 
+  Import took 0.016089 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/CakePolyFew/default_Defintion-POLY_REDUCED.mesh
+  artifactKey: Guid(e0a0eeafd7a313148a7a885caca3a1cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CakePolyFew/default_Defintion-POLY_REDUCED.mesh using Guid(e0a0eeafd7a313148a7a885caca3a1cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b96ba711002026649d01a2597695c28') in 0.009119 seconds 
+  Import took 0.014075 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/CakePolyFew/ID47-POLY_REDUCED.mesh
+  artifactKey: Guid(48f129831d1cf1b41976e5d2313382f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CakePolyFew/ID47-POLY_REDUCED.mesh using Guid(48f129831d1cf1b41976e5d2313382f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '756a72e2670465b509a4edaa524c0ebe') in 0.008606 seconds 
+  Import took 0.013467 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/CakePolyFew/ID267-POLY_REDUCED.mesh
+  artifactKey: Guid(74f6685315a796146bf6734672269448) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CakePolyFew/ID267-POLY_REDUCED.mesh using Guid(74f6685315a796146bf6734672269448) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84bfda2c6cca183416af4d8a9b2bbbd1') in 0.009332 seconds 
+  Import took 0.013711 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/CakePolyFew/ID377-POLY_REDUCED.mesh
+  artifactKey: Guid(be38292987fa52041922668daef70e86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CakePolyFew/ID377-POLY_REDUCED.mesh using Guid(be38292987fa52041922668daef70e86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '745a9c6e76239b2b50a3baf12c378960') in 0.009585 seconds 
+  Import took 0.014502 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/CakePolyFew/ID27-POLY_REDUCED.mesh
+  artifactKey: Guid(2acd894678c55cb41944c7a63837567a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CakePolyFew/ID27-POLY_REDUCED.mesh using Guid(2acd894678c55cb41944c7a63837567a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aedf6b7b218c8e04b4634d0e19e2c371') in 0.012039 seconds 
+  Import took 0.016679 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/CakePolyFew/ID367-POLY_REDUCED.mesh
+  artifactKey: Guid(5cf21b958f869294894e03ab84276e16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CakePolyFew/ID367-POLY_REDUCED.mesh using Guid(5cf21b958f869294894e03ab84276e16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab15b6272646b10ee31d205719554267') in 0.009385 seconds 
+  Import took 0.014231 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/CakePolyFew/ID57-POLY_REDUCED.mesh
+  artifactKey: Guid(6cfd3072c6dcf4f48b384c055745c876) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CakePolyFew/ID57-POLY_REDUCED.mesh using Guid(6cfd3072c6dcf4f48b384c055745c876) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd892375f8d39ed210d1ea97bf1e809dc') in 0.010464 seconds 
+  Import took 0.014821 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/CakePolyFew/ID137-POLY_REDUCED.mesh
+  artifactKey: Guid(8026f3b234b67604780b75f1bbc4fbb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CakePolyFew/ID137-POLY_REDUCED.mesh using Guid(8026f3b234b67604780b75f1bbc4fbb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17ade64730e13b42a8647cdae6a7b317') in 0.008797 seconds 
+  Import took 0.013693 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/CakePolyFew/ID277-POLY_REDUCED.mesh
+  artifactKey: Guid(81fcd0152c49f6a45a1bd2df1eca288a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CakePolyFew/ID277-POLY_REDUCED.mesh using Guid(81fcd0152c49f6a45a1bd2df1eca288a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f6e000c0322d71cd7e56ed9dd3819e5') in 0.010093 seconds 
+  Import took 0.015319 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/CakePolyFew/ID417-POLY_REDUCED.mesh
+  artifactKey: Guid(b2cc982721c66ae4b9101f4f351712d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CakePolyFew/ID417-POLY_REDUCED.mesh using Guid(b2cc982721c66ae4b9101f4f351712d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2649c2ad424f83547042b7fcff4ca063') in 0.008922 seconds 
+  Import took 0.013414 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/CakePolyFew/ID387-POLY_REDUCED.mesh
+  artifactKey: Guid(e9276d1e0d3d0154a9d7d8baee20fa73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CakePolyFew/ID387-POLY_REDUCED.mesh using Guid(e9276d1e0d3d0154a9d7d8baee20fa73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd72ee457a27830f4c6d2d52b5f618156') in 0.009200 seconds 
+  Import took 0.013680 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/CakePolyFew/ID407-POLY_REDUCED.mesh
+  artifactKey: Guid(3c1103f9535783c48994551e70174c92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CakePolyFew/ID407-POLY_REDUCED.mesh using Guid(3c1103f9535783c48994551e70174c92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58637a6b896642ffcee9ef4da599daef') in 0.009022 seconds 
+  Import took 0.013978 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/CakePolyFew/ID77-POLY_REDUCED.mesh
+  artifactKey: Guid(f6bcf6c66f9feed42836b233e4620a54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CakePolyFew/ID77-POLY_REDUCED.mesh using Guid(f6bcf6c66f9feed42836b233e4620a54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac8e82632119f4cd40e84a79cb675912') in 0.009577 seconds 
+  Import took 0.013831 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/CakePolyFew/ID437-POLY_REDUCED.mesh
+  artifactKey: Guid(4077a7f8bd2bfe84b8fe2f018b84b4d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CakePolyFew/ID437-POLY_REDUCED.mesh using Guid(4077a7f8bd2bfe84b8fe2f018b84b4d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22f13535c27fcf3df624413e6fb29e9b') in 0.009643 seconds 
+  Import took 0.014133 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/CakePolyFew/ID217-POLY_REDUCED.mesh
+  artifactKey: Guid(752e8bbb01390e54c8b3a39fe98fbb36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CakePolyFew/ID217-POLY_REDUCED.mesh using Guid(752e8bbb01390e54c8b3a39fe98fbb36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3a276ccc09fb2f6d3c6b334798e4697') in 0.009637 seconds 
+  Import took 0.014299 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.102875 seconds.
+  path: Assets/FBX/3D Models/LaranjaCaraCara/OrangeDownMaterial.mat
+  artifactKey: Guid(8e2fc3fc566a10149bee16790076ecdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/3D Models/LaranjaCaraCara/OrangeDownMaterial.mat using Guid(8e2fc3fc566a10149bee16790076ecdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c4a2756f982893c3a246b121a95fa7a') in 0.024867 seconds 
+  Import took 0.030456 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 430.290659 seconds.
+  path: Assets/Scenes/FruitsFlying.unity
+  artifactKey: Guid(a75a9191fffacf54086492147a39b014) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/FruitsFlying.unity using Guid(a75a9191fffacf54086492147a39b014) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4832f576bc466207b3e77446ca1e0442') in 0.005215 seconds 
+  Import took 0.010591 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.752961 seconds.
+  path: Assets/FBX/3D Models/Faca/Knife_LeftHand.prefab
+  artifactKey: Guid(87001e59c1731d4458ba1ee79bd9d6b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/3D Models/Faca/Knife_LeftHand.prefab using Guid(87001e59c1731d4458ba1ee79bd9d6b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43436343547e82a79cb94ee8bc064a37') in 0.023904 seconds 
+  Import took 0.029075 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.153863 seconds.
+  path: Assets/FBX/3D Models/Faca/Knife_RightHand.prefab
+  artifactKey: Guid(6cde2fc40183b3c4f91639f285f7383c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/3D Models/Faca/Knife_RightHand.prefab using Guid(6cde2fc40183b3c4f91639f285f7383c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '058ca33db761b4222ce6fb20eb9d6857') in 0.013751 seconds 
+  Import took 0.018950 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
